@@ -1,6 +1,8 @@
-# Aprendiendo-REACT
 
-
+<div align="center">
+  <H1>REACT</H1>
+    <img src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e47jw8lyfbdbxycg8rr97jdm12knpktn8obllemrg4s&rid=giphy.gif&ct=s" width="300px"> </img> 
+</div>
 
 ## Instalaciones Necesarias
 * [Google Chrome](https://www.google.com/chrome/)
